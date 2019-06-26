@@ -1,0 +1,81 @@
+
+header{
+    width: 100%;
+    font-family: 'Righteous', cursive; 
+    
+}
+body{
+    background-color: pink(83, 13, 214);
+    font-family: 'Righteous', cursive; 
+}
+.navbar-brand img{
+    height: 75px;
+    width: 75px;
+}
+
+ a{
+     font-size: 20px;
+     margin-right: 10px;
+}
+ a:hover{
+     text-decoration: underline;
+     color: rgb(2, 0, 0);    
+ }
+
+ }
+.carousel-inner img{
+    height: 60vh;
+    width: 0vw;
+}
+.jumbotron-section{ 
+    text-align: center;
+    padding: 30px;
+}
+.jumbotron p{
+    font-size: 16px;
+}
+.gridstyle{
+    margin-left: 150px;    
+}
+.gridstyle .card{
+    overflow: hidden;
+}
+
+.gridstyle img
+{
+   height:25vh;
+   width: 20vw;
+   border: 2px solid gray;
+  margin:0px 0px 0px 1px; 
+}
+
+.modal-header{
+    background-color:pink(83, 13, 214);
+    text-decoration-color: black;
+}
+
+footer {
+    padding-top: 20px;
+    padding-right: 60px;
+    margin-top: 50px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+} 
+footer a{
+    padding-top: 20px;
+    padding-right: 60px;
+    margin-top: 50px;
+    height: 200px;
+    font-size: 50px;
+}
+.modal-dialog{
+    padding-top: 15%;
+}
+.modal-body{
+    background-color: rgb(231, 15, 184);
+    text-decoration-color: black;
+}
+
+
+
